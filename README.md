@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/AjaySinghChauhan85/AjaySinghChauhan85/blob/main/Ajay_Reactjs_Gif.gif)
+![MasterHead](https://github.com/AjaySinghChauhan85/AjaySinghChauhan85/blob/main/65fbeb119bed9793316760.gif)
 <h1 align="center">Hi 👋, I'm Ajay Singh Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>

@@ -1,4 +1,4 @@
-![MasterHead](https://b1694534.smushcdn.com/1694534/wp-content/uploads/2021/12/ezgif.com-gif-maker.gif?lossy=1&strip=1&webp=1)
+![MasterHead](https://github.com/AjaySinghChauhan85/AjaySinghChauhan85/blob/main/REACTJS%20DEVELPOER.gif)
 <h1 align="center">Hi 👋, I'm Ajay Singh Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>

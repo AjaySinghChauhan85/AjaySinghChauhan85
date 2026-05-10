@@ -1,30 +1,164 @@
-![MasterHead](https://github.com/AjaySinghChauhan85/AjaySinghChauhan85/blob/main/GIf.gif)
-<h1 align="center">Hi 👋, I'm Ajay Singh Chauhan</h1>
-<h3 align="center">A passionate DevOps developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaysinghchauhan85&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysinghchauhan85" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:FF9900,100:0d1117&height=160&section=header&text=Ajay%20Singh%20Chauhan&fontSize=52&fontColor=ffffff&animation=blinking&fontAlignY=55&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20MERN%20Stack&descAlignY=75&descSize=16" />
 
-- 🌱 I’m currently learning **AWS**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://ajaysinghchauhan85.github.io/AjaySinghChauhan_Portfilio/](https://ajaysinghchauhan85.github.io/AjaySinghChauhan_Portfilio/)
+<br/>
 
-- 💬 Ask me about **MERN**
+<div align="center">
 
-- 📫 How to reach me **chauhanajay505@gmail.com**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=FF9900&center=true&vCenter=true&multiline=false&width=580&lines=🚀+Automating+Infrastructure+%7C+Cloud+at+Scale;☁️+AWS+Certified+Solutions+Architect;🔧+Building+Resilient+DevOps+Pipelines;🌐+Full+Stack+MERN+Developer)](https://git.io/typing-svg)
 
-- ⚡ Fun fact **I think I'm funny**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ajay singh chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay singh chauhan" height="30" width="40" /></a>
-<a href="https://instagram.com/ajy_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajy_here" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaysinghchauhan85&show_icons=true&locale=en&layout=compact" alt="ajaysinghchauhan85" /></p>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaysinghchauhan85&show_icons=true&locale=en" alt="ajaysinghchauhan85" /></p>
+### `$ whoami`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaysinghchauhan85&" alt="ajaysinghchauhan85" /></p>
+```bash
+Name     : Ajay Singh Chauhan
+Role     : DevOps Engineer & Full Stack Developer
+Location : India 🇮🇳
+Focus    : Cloud Infrastructure · CI/CD · MERN
+Learning : Advanced AWS · Kubernetes · Terraform
+Ask Me   : MERN Stack, DevOps Practices
+Email    : chauhanajay505@gmail.com
+Mood     : I think I'm funny 😄
+```
+
+<br clear="right"/>
+
+---
+
+## 🏅 Certification
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/c5cd9127-5136-478e-87b3-9f8ddd940def/linked_in_profile" target="_blank">
+  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/linkedin_thumb_image.png" height="130" alt="AWS Certified Solutions Architect Associate" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.credly.com/badges/c5cd9127-5136-478e-87b3-9f8ddd940def/linked_in_profile" target="_blank">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=232F3E" height="28" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+## 🧰 Tech Arsenal
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**☁️ Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**🌐 Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**🔧 DevOps & Monitoring**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash%2FShell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![ITSM](https://img.shields.io/badge/ITSM-0052CC?style=flat-square&logo=servicenow&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top">
+
+**📐 Methodologies**
+
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-FF9900?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=232F3E)
+![AWS Well-Architected](https://img.shields.io/badge/AWS%20Well--Architected%20Framework-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ajaysinghchauhan85&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=FF9900&icon_color=FF9900&title_color=FF9900&text_color=c9d1d9&ring_color=FF9900&hide_border=false&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaysinghchauhan85&theme=dark&background=0D1117&border=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" width="49%" />
+
+</div>
+
+<div align="center">
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysinghchauhan85&layout=compact&theme=github_dark&bg_color=0D1117&border_color=FF9900&title_color=FF9900&text_color=c9d1d9&hide_border=false" width="40%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaysinghchauhan85&bg_color=0D1117&color=FF9900&line=FF9900&point=ffffff&area=true&area_color=FF9900&hide_border=false&border_color=FF9900" width="95%" />
+</div>
+
+---
+
+## 🌐 Find Me Online
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ajay-singh-chauhan-b76523235/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.credly.com/badges/c5cd9127-5136-478e-87b3-9f8ddd940def/linked_in_profile" target="_blank">
+  <img src="https://img.shields.io/badge/AWS_Certification-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" />
+</a>&nbsp;
+<a href="https://ajaysinghchauhan85.github.io/AjaySinghChauhan_Portfilio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=FF9900" />
+</a>&nbsp;
+<a href="https://instagram.com/ajy_here" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>&nbsp;
+<a href="mailto:chauhanajay505@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:232F3E&height=100&section=footer" />
+
+**"Ship fast. Automate everything. Break nothing in prod."**
+
+</div>

@@ -24,18 +24,17 @@
 
 ### `$ whoami`
 
+<h2><img src="https://img.shields.io/badge/Ajay%20Singh%20Chauhan-0d1117?style=for-the-badge&labelColor=00FFD1&color=0d1117" /></h2>
+
 ```bash
-┌──────────────────────────────────────────┐
-│  Name     : Ajay Singh Chauhan           │
-│  Role     : DevOps Engineer              │
-│             Cloud Architect              │
-│  Location : India 🇮🇳                    │
-│  Focus    : Cloud · CI/CD · Automation  │
-│  Learning : Terraform · Observability    │
-│  Ask Me   : DevOps · AWS · Kubernetes    │
-│  Email    : chauhanajay505@gmail.com     │
-│  Mood     : I think I'm funny 😄         │
-└──────────────────────────────────────────┘
+Name     : Ajay Singh Chauhan
+Role     : DevOps Engineer & Cloud Architect
+Location : India 🇮🇳
+Focus    : Cloud Infrastructure · CI/CD · Automation
+Learning : Advanced AWS · Terraform · Observability
+Ask Me   : DevOps, Cloud Architecture, AWS
+Email    : chauhanajay505@gmail.com
+Mood     : I think I'm funny 😄
 ```
 
 <br clear="right"/>

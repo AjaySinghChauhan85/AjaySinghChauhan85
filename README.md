@@ -1,20 +1,26 @@
-<!-- HEADER with tech circuit background -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--           HEADER — deep space dark + neon blue        -->
+<!-- ═══════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=200&section=header&text=Ajay%20Singh%20Chauhan&fontSize=52&fontColor=00FFD1&fontAlignY=45&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20AWS%20Certified&descAlignY=68&descSize=17&descColor=a0f0e0&stroke=00FFD1&strokeWidth=1" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020010,30:0a0a2e,60:0d0d3b,100:020010&height=220&section=header&text=Ajay%20Singh%20Chauhan&fontSize=50&fontColor=58A6FF&fontAlignY=42&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20AWS%20Certified&descAlignY=62&descSize=16&descColor=8b949e&stroke=1e3a5f&strokeWidth=2" />
+
 </div>
 
-<!-- Subtle tech grid banner below header -->
+<!-- subtle dark starfield / tech-dots strip -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="80" />
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="60" style="opacity:0.3" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00FFD1&center=true&vCenter=true&width=620&lines=⚡+Infrastructure+as+Code+%7C+Cloud+at+Scale;☁️+AWS+Certified+Solutions+Architect;🔧+CI%2FCD+%7C+Kubernetes+%7C+Jenkins+%7C+Terraform;📊+Grafana+%7C+Prometheus+%7C+Observability)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=⚡+Automating+Infrastructure+at+Cloud+Scale;☁️+AWS+Certified+Solutions+Architect;🔧+CI%2FCD+%7C+Kubernetes+%7C+Jenkins+%7C+Terraform;📊+Grafana+%7C+Prometheus+%7C+Observability)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=ajaysinghchauhan85&label=Profile+Views&color=00FFD1&style=flat-square" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ajaysinghchauhan85&label=Profile+Views&color=58A6FF&style=flat-square&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/ajaysinghchauhan85?label=Followers&style=flat-square&color=00FFD1&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/ajaysinghchauhan85?label=Followers&style=flat-square&color=58A6FF&labelColor=0d1117" />
 
 </div>
 
@@ -24,7 +30,7 @@
 
 ### `$ whoami`
 
-<h2><img src="https://img.shields.io/badge/Ajay%20Singh%20Chauhan-0d1117?style=for-the-badge&labelColor=00FFD1&color=0d1117" /></h2>
+<img src="https://img.shields.io/badge/★%20Ajay%20Singh%20Chauhan%20★-58A6FF?style=for-the-badge&labelColor=0d1117&color=0d1117&logo=github&logoColor=58A6FF" height="34"/>
 
 ```bash
 Name     : Ajay Singh Chauhan
@@ -52,7 +58,7 @@ Mood     : I think I'm funny 😄
 <br/><br/>
 
 <a href="https://www.credly.com/badges/c5cd9127-5136-478e-87b3-9f8ddd940def/linked_in_profile" target="_blank">
-  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20–%20Associate-00FFD1?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-58A6FF?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117" />
 </a>
 
 </div>
@@ -67,35 +73,35 @@ Mood     : I think I'm funny 😄
 
 **☁️ Cloud & Infrastructure**
 
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazon-aws&logoColor=00FFD1)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00FFD1)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00FFD1)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=00FFD1)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00FFD1)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=00FFD1)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazon-aws&logoColor=58A6FF)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=58A6FF)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=58A6FF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=58A6FF)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=58A6FF)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=58A6FF)
 
 </td>
 <td valign="top" width="33%">
 
 **🔧 CI/CD & Monitoring**
 
-![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=00FFD1)
-![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=flat-square&logo=grafana&logoColor=00FFD1)
-![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&logo=prometheus&logoColor=00FFD1)
-![Bash](https://img.shields.io/badge/Bash%2FShell-0d1117?style=flat-square&logo=gnu-bash&logoColor=00FFD1)
-![ITSM](https://img.shields.io/badge/ITSM-0d1117?style=flat-square&logo=servicenow&logoColor=00FFD1)
+![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=58A6FF)
+![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=flat-square&logo=grafana&logoColor=58A6FF)
+![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&logo=prometheus&logoColor=58A6FF)
+![Bash](https://img.shields.io/badge/Bash%2FShell-0d1117?style=flat-square&logo=gnu-bash&logoColor=58A6FF)
+![ITSM](https://img.shields.io/badge/ITSM-0d1117?style=flat-square&logo=servicenow&logoColor=58A6FF)
 
 </td>
 <td valign="top" width="33%">
 
 **🌐 Frontend**
 
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00FFD1)
-![Redux](https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=00FFD1)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00FFD1)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=00FFD1)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=00FFD1)
-![Sass](https://img.shields.io/badge/Sass-0d1117?style=flat-square&logo=sass&logoColor=00FFD1)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=58A6FF)
+![Redux](https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=58A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=58A6FF)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=58A6FF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=58A6FF)
+![Sass](https://img.shields.io/badge/Sass-0d1117?style=flat-square&logo=sass&logoColor=58A6FF)
 
 </td>
 </tr>
@@ -104,10 +110,10 @@ Mood     : I think I'm funny 😄
 
 **📐 Methodologies**
 
-![Agile](https://img.shields.io/badge/Agile-0d1117?style=flat-square&logo=jira&logoColor=00FFD1)
-![Scrum](https://img.shields.io/badge/Scrum-0d1117?style=flat-square&logo=scrumalliance&logoColor=00FFD1)
-![DevOps](https://img.shields.io/badge/DevOps-0d1117?style=flat-square&logo=azuredevops&logoColor=00FFD1)
-![AWS Well-Architected](https://img.shields.io/badge/AWS%20Well--Architected%20Framework-0d1117?style=flat-square&logo=amazon-aws&logoColor=00FFD1)
+![Agile](https://img.shields.io/badge/Agile-0d1117?style=flat-square&logo=jira&logoColor=58A6FF)
+![Scrum](https://img.shields.io/badge/Scrum-0d1117?style=flat-square&logo=scrumalliance&logoColor=58A6FF)
+![DevOps](https://img.shields.io/badge/DevOps-0d1117?style=flat-square&logo=azuredevops&logoColor=58A6FF)
+![AWS Well-Architected](https://img.shields.io/badge/AWS%20Well--Architected%20Framework-0d1117?style=flat-square&logo=amazon-aws&logoColor=58A6FF)
 
 </td>
 </tr>
@@ -119,21 +125,21 @@ Mood     : I think I'm funny 😄
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajaysinghchauhan85&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=00FFD1&icon_color=00FFD1&title_color=00FFD1&text_color=a0f0e0&hide_border=false&count_private=true" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=ajaysinghchauhan85&theme=dark&background=0D1117&border=00FFD1&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1&sideLabels=00FFD1&dates=a0f0e0" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ajaysinghchauhan85&show_icons=true&bg_color=010409&border_color=1e3a5f&icon_color=58A6FF&title_color=58A6FF&text_color=8b949e&hide_border=false&count_private=true" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=ajaysinghchauhan85&background=010409&border=1e3a5f&ring=58A6FF&fire=79c0ff&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&stroke=1e3a5f" width="49%" />
 
 </div>
 
 <div align="center">
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysinghchauhan85&layout=compact&theme=github_dark&bg_color=0D1117&border_color=00FFD1&title_color=00FFD1&text_color=a0f0e0&hide_border=false&langs_count=8" width="42%" />
-<img src="https://github-profile-trophy.vercel.app/?username=ajaysinghchauhan85&theme=matrix&no-frame=true&row=1&column=4&margin-w=8" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysinghchauhan85&layout=compact&bg_color=010409&border_color=1e3a5f&title_color=58A6FF&text_color=8b949e&hide_border=false&langs_count=8" width="42%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ajaysinghchauhan85&theme=onestar&no-frame=true&row=1&column=4&margin-w=8" width="55%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaysinghchauhan85&bg_color=0D1117&color=00FFD1&line=00FFD1&point=ffffff&area=true&area_color=00FFD1&hide_border=false&border_color=00FFD1" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaysinghchauhan85&bg_color=010409&color=58A6FF&line=1e3a5f&point=58A6FF&area=true&area_color=1e3a5f&hide_border=false&border_color=1e3a5f" width="95%" />
 </div>
 
 ---
@@ -143,29 +149,29 @@ Mood     : I think I'm funny 😄
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ajay-singh-chauhan-b76523235/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FFD1&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0d1117" />
 </a>&nbsp;
 <a href="https://www.credly.com/badges/c5cd9127-5136-478e-87b3-9f8ddd940def/linked_in_profile" target="_blank">
-  <img src="https://img.shields.io/badge/AWS_Certification-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=00FFD1&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AWS_Certification-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=58A6FF&labelColor=0d1117" />
 </a>&nbsp;
 <a href="https://ajaysinghchauhan85.github.io/AjaySinghChauhan_Portfilio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00FFD1&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF&labelColor=0d1117" />
 </a>&nbsp;
 <a href="https://instagram.com/ajy_here" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00FFD1&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=58A6FF&labelColor=0d1117" />
 </a>&nbsp;
 <a href="mailto:chauhanajay505@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FFD1&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0d1117" />
 </a>
 
 </div>
 
 ---
 
-<!-- FOOTER with tech background -->
+<!-- FOOTER -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="60" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&fontColor=00FFD1" />
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="50" style="opacity:0.3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020010,50:0a0a2e,100:020010&height=110&section=footer&fontColor=58A6FF" />
 
 **`> "Ship fast. Automate everything. Break nothing in prod."_`**
 

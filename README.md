@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:FF9900,100:0d1117&height=160&section=header&text=Ajay%20Singh%20Chauhan&fontSize=52&fontColor=ffffff&animation=blinking&fontAlignY=55&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20MERN%20Stack&descAlignY=75&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=160&section=header&text=Ajay%20Singh%20Chauhan&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20AWS%20Certified&descAlignY=75&descSize=16" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=FF9900&center=true&vCenter=true&multiline=false&width=580&lines=🚀+Automating+Infrastructure+%7C+Cloud+at+Scale;☁️+AWS+Certified+Solutions+Architect;🔧+Building+Resilient+DevOps+Pipelines;🌐+Full+Stack+MERN+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=FF9900&center=true&vCenter=true&multiline=false&width=580&lines=🚀+Automating+Infrastructure+%7C+Cloud+at+Scale;☁️+AWS+Certified+Solutions+Architect;🔧+Building+Resilient+DevOps+Pipelines;⚙️+Kubernetes+%7C+Jenkins+%7C+Grafana+%7C+Prometheus)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,11 +20,11 @@
 
 ```bash
 Name     : Ajay Singh Chauhan
-Role     : DevOps Engineer & Full Stack Developer
+Role     : DevOps Engineer & Cloud Architect
 Location : India 🇮🇳
-Focus    : Cloud Infrastructure · CI/CD · MERN
-Learning : Advanced AWS · Kubernetes · Terraform
-Ask Me   : MERN Stack, DevOps Practices
+Focus    : Cloud Infrastructure · CI/CD · Automation
+Learning : Advanced AWS · Terraform · Observability
+Ask Me   : DevOps, Cloud Architecture, AWS
 Email    : chauhanajay505@gmail.com
 Mood     : I think I'm funny 😄
 ```
@@ -113,14 +113,15 @@ Mood     : I think I'm funny 😄
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajaysinghchauhan85&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=FF9900&icon_color=FF9900&title_color=FF9900&text_color=c9d1d9&ring_color=FF9900&hide_border=false&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaysinghchauhan85&theme=dark&background=0D1117&border=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ajaysinghchauhan85&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=FF9900&icon_color=FF9900&title_color=FF9900&text_color=c9d1d9&hide_border=false&count_private=true" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=ajaysinghchauhan85&theme=dark&background=0D1117&border=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&sideLabels=FF9900&dates=c9d1d9" width="49%" />
 
 </div>
 
 <div align="center">
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysinghchauhan85&layout=compact&theme=github_dark&bg_color=0D1117&border_color=FF9900&title_color=FF9900&text_color=c9d1d9&hide_border=false" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysinghchauhan85&layout=compact&theme=github_dark&bg_color=0D1117&border_color=FF9900&title_color=FF9900&text_color=c9d1d9&hide_border=false&langs_count=8" width="42%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ajaysinghchauhan85&theme=darkhub&no-frame=true&row=1&column=4&margin-w=8" width="55%" />
 </div>
 
 <br/>

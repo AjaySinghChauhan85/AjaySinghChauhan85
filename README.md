@@ -136,8 +136,8 @@ Mood     : I think I'm funny 😄
 
 <div align="center">
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysinghchauhan85&layout=compact&bg_color=010409&border_color=1e3a5f&title_color=58A6FF&text_color=8b949e&hide_border=false&langs_count=8&cache_seconds=1800" width="42%" />
-<img src="https://github-profile-trophy.vercel.app/?username=ajaysinghchauhan85&theme=onestar&no-frame=true&row=1&column=4&margin-w=8" width="55%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysinghchauhan85&layout=compact&bg_color=010409&border_color=1e3a5f&title_color=58A6FF&text_color=8b949e&hide_border=false&langs_count=8&cache_seconds=1800" width="42%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ajaysinghchauhan85&theme=onestar&no-frame=true&row=1&column=4&margin-w=8" width="55%" /> -->
 </div>
 
 <br/>

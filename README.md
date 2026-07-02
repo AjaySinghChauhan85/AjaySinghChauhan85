@@ -64,7 +64,7 @@ Mood     : I think I'm funny 😄
 <br/><br/>
 
 <a href="https://simpli-web.app.link/e/aZ552oZGr4b" target="_blank">
-  <img src="https://img.shields.io/badge/Introduction%20to%20Prompt%20Engineering-58A6FF?style=for-the-badge&logo=simplilearn&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Simplilearn%20Certified-Introduction%20to%20Prompt%20Engineering-58A6FF?style=for-the-badge&logo=simplilearn&logoColor=white&labelColor=0d1117" />
 </a>
 
 </div>

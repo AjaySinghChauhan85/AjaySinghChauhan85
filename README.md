@@ -177,6 +177,6 @@ Mood     : I think I'm funny 😄
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="50" style="opacity:0.3" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020010,50:0a0a2e,100:020010&height=110&section=footer&fontColor=58A6FF" />
 
-**`> "Ship fast. Automate everything. Break nothing in prod."_`**
+**`> "Ship fast. Automate everything. Break nothing in prod."`**
 
 </div>

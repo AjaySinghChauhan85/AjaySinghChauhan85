@@ -59,7 +59,8 @@ Mood     : I think I'm funny 😄
 
 <a href="https://www.credly.com/badges/c5cd9127-5136-478e-87b3-9f8ddd940def/linked_in_profile" target="_blank">
   <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-58A6FF?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117" />
-</a>
+</a>&nbsp;
+<img src="https://img.shields.io/badge/Introduction%20to%20Prompt%20Engineering-58A6FF?style=for-the-badge&logo=simplilearn&logoColor=white&labelColor=0d1117" />
 
 </div>
 
@@ -77,6 +78,8 @@ Mood     : I think I'm funny 😄
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=58A6FF)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=58A6FF)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=58A6FF)
+![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=flat-square&logo=terraform&logoColor=58A6FF)
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-0d1117?style=flat-square&logo=argo&logoColor=58A6FF)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=58A6FF)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=58A6FF)
 
@@ -113,6 +116,7 @@ Mood     : I think I'm funny 😄
 ![Agile](https://img.shields.io/badge/Agile-0d1117?style=flat-square&logo=jira&logoColor=58A6FF)
 ![Scrum](https://img.shields.io/badge/Scrum-0d1117?style=flat-square&logo=scrumalliance&logoColor=58A6FF)
 ![DevOps](https://img.shields.io/badge/DevOps-0d1117?style=flat-square&logo=azuredevops&logoColor=58A6FF)
+![GitOps](https://img.shields.io/badge/GitOps-0d1117?style=flat-square&logo=argo&logoColor=58A6FF)
 ![AWS Well-Architected](https://img.shields.io/badge/AWS%20Well--Architected%20Framework-0d1117?style=flat-square&logo=amazon-aws&logoColor=58A6FF)
 
 </td>
@@ -125,14 +129,14 @@ Mood     : I think I'm funny 😄
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajaysinghchauhan85&show_icons=true&bg_color=010409&border_color=1e3a5f&icon_color=58A6FF&title_color=58A6FF&text_color=8b949e&hide_border=false&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ajaysinghchauhan85&show_icons=true&bg_color=010409&border_color=1e3a5f&icon_color=58A6FF&title_color=58A6FF&text_color=8b949e&hide_border=false&count_private=true&cache_seconds=1800" width="49%" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=ajaysinghchauhan85&background=010409&border=1e3a5f&ring=58A6FF&fire=79c0ff&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&stroke=1e3a5f" width="49%" />
 
 </div>
 
 <div align="center">
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysinghchauhan85&layout=compact&bg_color=010409&border_color=1e3a5f&title_color=58A6FF&text_color=8b949e&hide_border=false&langs_count=8" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysinghchauhan85&layout=compact&bg_color=010409&border_color=1e3a5f&title_color=58A6FF&text_color=8b949e&hide_border=false&langs_count=8&cache_seconds=1800" width="42%" />
 <img src="https://github-profile-trophy.vercel.app/?username=ajaysinghchauhan85&theme=onestar&no-frame=true&row=1&column=4&margin-w=8" width="55%" />
 </div>
 

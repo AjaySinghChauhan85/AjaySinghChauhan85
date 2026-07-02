@@ -59,8 +59,13 @@ Mood     : I think I'm funny 😄
 
 <a href="https://www.credly.com/badges/c5cd9127-5136-478e-87b3-9f8ddd940def/linked_in_profile" target="_blank">
   <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-58A6FF?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117" />
-</a>&nbsp;
-<img src="https://img.shields.io/badge/Introduction%20to%20Prompt%20Engineering-58A6FF?style=for-the-badge&logo=simplilearn&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+<a href="https://simpli-web.app.link/e/aZ552oZGr4b" target="_blank">
+  <img src="https://img.shields.io/badge/Introduction%20to%20Prompt%20Engineering-58A6FF?style=for-the-badge&logo=simplilearn&logoColor=white&labelColor=0d1117" />
+</a>
 
 </div>
 
@@ -126,21 +131,6 @@ Mood     : I think I'm funny 😄
 ---
 
 ## 📊 GitHub Metrics
-
-<div align="center">
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=ajaysinghchauhan85&show_icons=true&bg_color=010409&border_color=1e3a5f&icon_color=58A6FF&title_color=58A6FF&text_color=8b949e&hide_border=false&count_private=true&cache_seconds=1800" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=ajaysinghchauhan85&background=010409&border=1e3a5f&ring=58A6FF&fire=79c0ff&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&stroke=1e3a5f" width="49%" /> -->
-
-</div>
-
-<div align="center">
-<br/>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysinghchauhan85&layout=compact&bg_color=010409&border_color=1e3a5f&title_color=58A6FF&text_color=8b949e&hide_border=false&langs_count=8&cache_seconds=1800" width="42%" />
-<img src="https://github-profile-trophy.vercel.app/?username=ajaysinghchauhan85&theme=onestar&no-frame=true&row=1&column=4&margin-w=8" width="55%" /> -->
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaysinghchauhan85&bg_color=010409&color=58A6FF&line=1e3a5f&point=58A6FF&area=true&area_color=1e3a5f&hide_border=false&border_color=1e3a5f" width="95%" />

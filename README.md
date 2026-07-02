@@ -129,8 +129,8 @@ Mood     : I think I'm funny 😄
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajaysinghchauhan85&show_icons=true&bg_color=010409&border_color=1e3a5f&icon_color=58A6FF&title_color=58A6FF&text_color=8b949e&hide_border=false&count_private=true&cache_seconds=1800" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=ajaysinghchauhan85&background=010409&border=1e3a5f&ring=58A6FF&fire=79c0ff&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&stroke=1e3a5f" width="49%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ajaysinghchauhan85&show_icons=true&bg_color=010409&border_color=1e3a5f&icon_color=58A6FF&title_color=58A6FF&text_color=8b949e&hide_border=false&count_private=true&cache_seconds=1800" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=ajaysinghchauhan85&background=010409&border=1e3a5f&ring=58A6FF&fire=79c0ff&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&stroke=1e3a5f" width="49%" /> -->
 
 </div>
 
